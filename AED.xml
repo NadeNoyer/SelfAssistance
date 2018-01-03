@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for U.A.E Dirham (AED)</title>
+	<link>http://www.floatrates.com/currency/aed/</link>
+	<xmlLink>http://www.floatrates.com/daily/aed.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for U.A.E Dirham (AED) from the Float Rates. Published at Thu, 7 Dec 2017 12:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>AED</baseCurrency>
+	<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+	<lastBuildDate>Thu, 7 Dec 2017 12:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 AED = 0.27228478 USD</title>
+		<link>http://www.floatrates.com/aed/usd/</link>
+		<description>1 U.A.E Dirham = 0.27228478 U.S. Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.27228478</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.23086979 EUR</title>
+		<link>http://www.floatrates.com/aed/eur/</link>
+		<description>1 U.A.E Dirham = 0.23086979 Euro</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.23086979</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.20352685 GBP</title>
+		<link>http://www.floatrates.com/aed/gbp/</link>
+		<description>1 U.A.E Dirham = 0.20352685 U.K. Pound Sterling</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.20352685</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.26983491 CHF</title>
+		<link>http://www.floatrates.com/aed/chf/</link>
+		<description>1 U.A.E Dirham = 0.26983491 Swiss Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.26983491</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.34745686 CAD</title>
+		<link>http://www.floatrates.com/aed/cad/</link>
+		<description>1 U.A.E Dirham = 0.34745686 Canadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.34745686</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.36002023 AUD</title>
+		<link>http://www.floatrates.com/aed/aud/</link>
+		<description>1 U.A.E Dirham = 0.36002023 Australian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.36002023</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 30.65571216 JPY</title>
+		<link>http://www.floatrates.com/aed/jpy/</link>
+		<description>1 U.A.E Dirham = 30.65571216 Japanese Yen</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>30.65571216</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 90.81912442 KZT</title>
+		<link>http://www.floatrates.com/aed/kzt/</link>
+		<description>1 U.A.E Dirham = 90.81912442 Kazakhstani Tenge</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>90.81912442</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 3.68914574 ZAR</title>
+		<link>http://www.floatrates.com/aed/zar/</link>
+		<description>1 U.A.E Dirham = 3.68914574 South African Rand</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>3.68914574</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.12726188 HKD</title>
+		<link>http://www.floatrates.com/aed/hkd/</link>
+		<description>1 U.A.E Dirham = 2.12726188 Hong Kong Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>2.12726188</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 4.69167233 MDL</title>
+		<link>http://www.floatrates.com/aed/mdl/</link>
+		<description>1 U.A.E Dirham = 4.69167233 Moldova Lei</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>4.69167233</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.10237908 BHD</title>
+		<link>http://www.floatrates.com/aed/bhd/</link>
+		<description>1 U.A.E Dirham = 0.10237908 Bahrain Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.10237908</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.20617367 LYD</title>
+		<link>http://www.floatrates.com/aed/lyd/</link>
+		<description>1 U.A.E Dirham = 0.20617367 Libyan Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.20617367</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 151.33772446 XAF</title>
+		<link>http://www.floatrates.com/aed/xaf/</link>
+		<description>1 U.A.E Dirham = 151.33772446 Central African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>151.33772446</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2,204.49962100 UZS</title>
+		<link>http://www.floatrates.com/aed/uzs/</link>
+		<description>1 U.A.E Dirham = 2,204.49962100 Uzbekistan Sum</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>2,204.49962100</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 28.05077848 NPR</title>
+		<link>http://www.floatrates.com/aed/npr/</link>
+		<description>1 U.A.E Dirham = 28.05077848 Nepalese Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>28.05077848</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.67715947 TND</title>
+		<link>http://www.floatrates.com/aed/tnd/</link>
+		<description>1 U.A.E Dirham = 0.67715947 Tunisian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.67715947</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 6,190.76831975 VND</title>
+		<link>http://www.floatrates.com/aed/vnd/</link>
+		<description>1 U.A.E Dirham = 6,190.76831975 Vietnamese Dong</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>6,190.76831975</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 27.66962200 RSD</title>
+		<link>http://www.floatrates.com/aed/rsd/</link>
+		<description>1 U.A.E Dirham = 27.66962200 Serbian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>27.66962200</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 5.90943551 CZK</title>
+		<link>http://www.floatrates.com/aed/czk/</link>
+		<description>1 U.A.E Dirham = 5.90943551 Czech Koruna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>5.90943551</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.10469350 OMR</title>
+		<link>http://www.floatrates.com/aed/omr/</link>
+		<description>1 U.A.E Dirham = 0.10469350 Omani Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.10469350</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.54456957 BBD</title>
+		<link>http://www.floatrates.com/aed/bbd/</link>
+		<description>1 U.A.E Dirham = 0.54456957 Barbadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.54456957</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.88113188 PEN</title>
+		<link>http://www.floatrates.com/aed/pen/</link>
+		<description>1 U.A.E Dirham = 0.88113188 Peruvian Nuevo Sol</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.88113188</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 4.69834395 ARS</title>
+		<link>http://www.floatrates.com/aed/ars/</link>
+		<description>1 U.A.E Dirham = 4.69834395 Argentine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>4.69834395</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.80102556 CNY</title>
+		<link>http://www.floatrates.com/aed/cny/</link>
+		<description>1 U.A.E Dirham = 1.80102556 Chinese Yuan</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>1.80102556</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 28.27677485 ISK</title>
+		<link>http://www.floatrates.com/aed/isk/</link>
+		<description>1 U.A.E Dirham = 28.27677485 Icelandic Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>28.27677485</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.99111661 QAR</title>
+		<link>http://www.floatrates.com/aed/qar/</link>
+		<description>1 U.A.E Dirham = 0.99111661 Qatari Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.99111661</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.45124316 BGN</title>
+		<link>http://www.floatrates.com/aed/bgn/</link>
+		<description>1 U.A.E Dirham = 0.45124316 Bulgarian Lev</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.45124316</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.56123321 MAD</title>
+		<link>http://www.floatrates.com/aed/mad/</link>
+		<description>1 U.A.E Dirham = 2.56123321 Moroccan Dirham</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>2.56123321</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.86787362 BOB</title>
+		<link>http://www.floatrates.com/aed/bob/</link>
+		<description>1 U.A.E Dirham = 1.86787362 Bolivian Boliviano</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>1.86787362</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.95660953 ILS</title>
+		<link>http://www.floatrates.com/aed/ils/</link>
+		<description>1 U.A.E Dirham = 0.95660953 Israeli New Sheqel</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.95660953</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.36709789 SGD</title>
+		<link>http://www.floatrates.com/aed/sgd/</link>
+		<description>1 U.A.E Dirham = 0.36709789 Singapore Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.36709789</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.04968481 TRY</title>
+		<link>http://www.floatrates.com/aed/try/</link>
+		<description>1 U.A.E Dirham = 1.04968481 Turkish Lira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>1.04968481</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 19.01037215 KGS</title>
+		<link>http://www.floatrates.com/aed/kgs/</link>
+		<description>1 U.A.E Dirham = 19.01037215 Kyrgyzstan Som</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>19.01037215</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.08216313 KWD</title>
+		<link>http://www.floatrates.com/aed/kwd/</link>
+		<description>1 U.A.E Dirham = 0.08216313 Kuwaiti Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.08216313</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.29193170 SEK</title>
+		<link>http://www.floatrates.com/aed/sek/</link>
+		<description>1 U.A.E Dirham = 2.29193170 Swedish Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>2.29193170</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 13.79960516 PHP</title>
+		<link>http://www.floatrates.com/aed/php/</link>
+		<description>1 U.A.E Dirham = 13.79960516 Philippine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>13.79960516</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.40019026 TJS</title>
+		<link>http://www.floatrates.com/aed/tjs/</link>
+		<description>1 U.A.E Dirham = 2.40019026 Tajikistan Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>2.40019026</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.36671315 BND</title>
+		<link>http://www.floatrates.com/aed/bnd/</link>
+		<description>1 U.A.E Dirham = 0.36671315 Brunei Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.36671315</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 9.14860538 MUR</title>
+		<link>http://www.floatrates.com/aed/mur/</link>
+		<description>1 U.A.E Dirham = 9.14860538 Mauritian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>9.14860538</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.83539005 TTD</title>
+		<link>http://www.floatrates.com/aed/ttd/</link>
+		<description>1 U.A.E Dirham = 1.83539005 Trinidad Tobago Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>1.83539005</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 8.17905075 TWD</title>
+		<link>http://www.floatrates.com/aed/twd/</link>
+		<description>1 U.A.E Dirham = 8.17905075 New Taiwan Dollar </description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>8.17905075</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 4.85313867 EGP</title>
+		<link>http://www.floatrates.com/aed/egp/</link>
+		<description>1 U.A.E Dirham = 4.85313867 Egyptian Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>4.85313867</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 816.21255124 COP</title>
+		<link>http://www.floatrates.com/aed/cop/</link>
+		<description>1 U.A.E Dirham = 816.21255124 Colombian Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>816.21255124</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.25160343 NOK</title>
+		<link>http://www.floatrates.com/aed/nok/</link>
+		<description>1 U.A.E Dirham = 2.25160343 Norwegian Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>2.25160343</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.71661012 VEF</title>
+		<link>http://www.floatrates.com/aed/vef/</link>
+		<description>1 U.A.E Dirham = 2.71661012 Venezuelan Bolivar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>2.71661012</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 83.31914400 NGN</title>
+		<link>http://www.floatrates.com/aed/ngn/</link>
+		<description>1 U.A.E Dirham = 83.31914400 Nigerian Naira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>83.31914400</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 412.30019281 LBP</title>
+		<link>http://www.floatrates.com/aed/lbp/</link>
+		<description>1 U.A.E Dirham = 412.30019281 Lebanese Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>412.30019281</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 72.51059384 HUF</title>
+		<link>http://www.floatrates.com/aed/huf/</link>
+		<description>1 U.A.E Dirham = 72.51059384 Hungarian Forint</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>72.51059384</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.97152913 PLN</title>
+		<link>http://www.floatrates.com/aed/pln/</link>
+		<description>1 U.A.E Dirham = 0.97152913 Polish Zloty</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.97152913</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 13.07541486 DOP</title>
+		<link>http://www.floatrates.com/aed/dop/</link>
+		<description>1 U.A.E Dirham = 13.07541486 Dominican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>13.07541486</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 96.48828230 MRO</title>
+		<link>http://www.floatrates.com/aed/mro/</link>
+		<description>1 U.A.E Dirham = 96.48828230 Mauritanian Ouguiya</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>96.48828230</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 7.88065826 UYU</title>
+		<link>http://www.floatrates.com/aed/uyu/</link>
+		<description>1 U.A.E Dirham = 7.88065826 Uruguayan Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>7.88065826</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 3,688.59957265 IDR</title>
+		<link>http://www.floatrates.com/aed/idr/</link>
+		<description>1 U.A.E Dirham = 3,688.59957265 Indonesian Rupiah</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>3,688.59957265</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.02105815 SAR</title>
+		<link>http://www.floatrates.com/aed/sar/</link>
+		<description>1 U.A.E Dirham = 1.02105815 Saudi Riyal</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>1.02105815</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.74104458 HRK</title>
+		<link>http://www.floatrates.com/aed/hrk/</link>
+		<description>1 U.A.E Dirham = 1.74104458 Croatian Kuna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>1.74104458</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 132.19470756 AMD</title>
+		<link>http://www.floatrates.com/aed/amd/</link>
+		<description>1 U.A.E Dirham = 132.19470756 Armenia Dram</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>132.19470756</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 8.35704629 NIO</title>
+		<link>http://www.floatrates.com/aed/nio/</link>
+		<description>1 U.A.E Dirham = 8.35704629 Nicaraguan Córdoba</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>8.35704629</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 31.35924142 DZD</title>
+		<link>http://www.floatrates.com/aed/dzd/</link>
+		<description>1 U.A.E Dirham = 31.35924142 Algerian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>31.35924142</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 297.24731024 KRW</title>
+		<link>http://www.floatrates.com/aed/krw/</link>
+		<description>1 U.A.E Dirham = 297.24731024 South Korean Won</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>297.24731024</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 41.76491898 LKR</title>
+		<link>http://www.floatrates.com/aed/lkr/</link>
+		<description>1 U.A.E Dirham = 41.76491898 Sri Lanka Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>41.76491898</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 5.13053005 MXN</title>
+		<link>http://www.floatrates.com/aed/mxn/</link>
+		<description>1 U.A.E Dirham = 5.13053005 Mexican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>5.13053005</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.95169187 TMT</title>
+		<link>http://www.floatrates.com/aed/tmt/</link>
+		<description>1 U.A.E Dirham = 0.95169187 New Turkmenistan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>0.95169187</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 2.80128379 BWP</title>
+		<link>http://www.floatrates.com/aed/bwp/</link>
+		<description>1 U.A.E Dirham = 2.80128379 Botswana Pula</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>2.80128379</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.10998818 MYR</title>
+		<link>http://www.floatrates.com/aed/myr/</link>
+		<description>1 U.A.E Dirham = 1.10998818 Malaysian Ringgit</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>1.10998818</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 8.88213631 THB</title>
+		<link>http://www.floatrates.com/aed/thb/</link>
+		<description>1 U.A.E Dirham = 8.88213631 Thai Baht</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>8.88213631</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 151.33772446 XOF</title>
+		<link>http://www.floatrates.com/aed/xof/</link>
+		<description>1 U.A.E Dirham = 151.33772446 West African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>151.33772446</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 7.38063925 UAH</title>
+		<link>http://www.floatrates.com/aed/uah/</link>
+		<description>1 U.A.E Dirham = 7.38063925 Ukrainian Hryvnia</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>7.38063925</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 177.72226276 CLP</title>
+		<link>http://www.floatrates.com/aed/clp/</link>
+		<description>1 U.A.E Dirham = 177.72226276 Chilean Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>177.72226276</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.39641011 NZD</title>
+		<link>http://www.floatrates.com/aed/nzd/</link>
+		<description>1 U.A.E Dirham = 0.39641011 New Zealand Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.39641011</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.87694105 PGK</title>
+		<link>http://www.floatrates.com/aed/pgk/</link>
+		<description>1 U.A.E Dirham = 0.87694105 Papua New Guinean kina</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>0.87694105</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.19316554 JOD</title>
+		<link>http://www.floatrates.com/aed/jod/</link>
+		<description>1 U.A.E Dirham = 0.19316554 Jordanian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.19316554</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.71594346 DKK</title>
+		<link>http://www.floatrates.com/aed/dkk/</link>
+		<description>1 U.A.E Dirham = 1.71594346 Danish Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>1.71594346</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 28.73464421 PKR</title>
+		<link>http://www.floatrates.com/aed/pkr/</link>
+		<description>1 U.A.E Dirham = 28.73464421 Pakistani Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>28.73464421</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.88085592 BRL</title>
+		<link>http://www.floatrates.com/aed/brl/</link>
+		<description>1 U.A.E Dirham = 0.88085592 Brazilian Real</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.88085592</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.55266473 BYN</title>
+		<link>http://www.floatrates.com/aed/byn/</link>
+		<description>1 U.A.E Dirham = 0.55266473 Belarussian Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.55266473</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1,543.69720698 PYG</title>
+		<link>http://www.floatrates.com/aed/pyg/</link>
+		<description>1 U.A.E Dirham = 1,543.69720698 Paraguayan Guaraní</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>1,543.69720698</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 17.56609258 INR</title>
+		<link>http://www.floatrates.com/aed/inr/</link>
+		<description>1 U.A.E Dirham = 17.56609258 Indian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>17.56609258</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 16.08669448 RUB</title>
+		<link>http://www.floatrates.com/aed/rub/</link>
+		<description>1 U.A.E Dirham = 16.08669448 Russian Rouble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>16.08669448</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 1.06876308 RON</title>
+		<link>http://www.floatrates.com/aed/ron/</link>
+		<description>1 U.A.E Dirham = 1.06876308 Romanian New Leu</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>1.06876308</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 0.46288406 AZN</title>
+		<link>http://www.floatrates.com/aed/azn/</link>
+		<description>1 U.A.E Dirham = 0.46288406 Azerbaijan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.46288406</exchangeRate>
+	</item>
+	<item>
+		<title>1 AED = 154.15130780 CRC</title>
+		<link>http://www.floatrates.com/aed/crc/</link>
+		<description>1 U.A.E Dirham = 154.15130780 Costa Rican Colón</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>AED</baseCurrency>
+		<baseName>U.A.E Dirham</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>154.15130780</exchangeRate>
+	</item>
+</channel>

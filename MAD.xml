@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for Moroccan Dirham (MAD)</title>
+	<link>http://www.floatrates.com/currency/mad/</link>
+	<xmlLink>http://www.floatrates.com/daily/mad.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for Moroccan Dirham (MAD) from the Float Rates. Published at Thu, 7 Dec 2017 12:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>MAD</baseCurrency>
+	<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+	<lastBuildDate>Thu, 7 Dec 2017 12:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 MAD = 0.10631003 USD</title>
+		<link>http://www.floatrates.com/mad/usd/</link>
+		<description>1 Moroccan Dirham = 0.10631003 U.S. Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>0.10631003</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.09014009 EUR</title>
+		<link>http://www.floatrates.com/mad/eur/</link>
+		<description>1 Moroccan Dirham = 0.09014009 Euro</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>0.09014009</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.07946440 GBP</title>
+		<link>http://www.floatrates.com/mad/gbp/</link>
+		<description>1 Moroccan Dirham = 0.07946440 U.K. Pound Sterling</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>GBP</targetCurrency>
+		<targetName>U.K. Pound Sterling</targetName>
+		<exchangeRate>0.07946440</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.14056519 AUD</title>
+		<link>http://www.floatrates.com/mad/aud/</link>
+		<description>1 Moroccan Dirham = 0.14056519 Australian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>0.14056519</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 11.96912177 JPY</title>
+		<link>http://www.floatrates.com/mad/jpy/</link>
+		<description>1 Moroccan Dirham = 11.96912177 Japanese Yen</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>11.96912177</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.10535351 CHF</title>
+		<link>http://www.floatrates.com/mad/chf/</link>
+		<description>1 Moroccan Dirham = 0.10535351 Swiss Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>0.10535351</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.13565999 CAD</title>
+		<link>http://www.floatrates.com/mad/cad/</link>
+		<description>1 Moroccan Dirham = 0.13565999 Canadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>0.13565999</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.03207952 KWD</title>
+		<link>http://www.floatrates.com/mad/kwd/</link>
+		<description>1 Moroccan Dirham = 0.03207952 Kuwaiti Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.03207952</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.89485475 SEK</title>
+		<link>http://www.floatrates.com/mad/sek/</link>
+		<description>1 Moroccan Dirham = 0.89485475 Swedish Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>0.89485475</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 5.38787531 PHP</title>
+		<link>http://www.floatrates.com/mad/php/</link>
+		<description>1 Moroccan Dirham = 5.38787531 Philippine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>5.38787531</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.93712289 TJS</title>
+		<link>http://www.floatrates.com/mad/tjs/</link>
+		<description>1 Moroccan Dirham = 0.93712289 Tajikistan Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>0.93712289</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.89484450 EGP</title>
+		<link>http://www.floatrates.com/mad/egp/</link>
+		<description>1 Moroccan Dirham = 1.89484450 Egyptian Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>1.89484450</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.14317835 BND</title>
+		<link>http://www.floatrates.com/mad/bnd/</link>
+		<description>1 Moroccan Dirham = 0.14317835 Brunei Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>0.14317835</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 3.57195329 MUR</title>
+		<link>http://www.floatrates.com/mad/mur/</link>
+		<description>1 Moroccan Dirham = 3.57195329 Mauritian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>3.57195329</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.71660403 TTD</title>
+		<link>http://www.floatrates.com/mad/ttd/</link>
+		<description>1 Moroccan Dirham = 0.71660403 Trinidad Tobago Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>0.71660403</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 3.19340336 TWD</title>
+		<link>http://www.floatrates.com/mad/twd/</link>
+		<description>1 Moroccan Dirham = 3.19340336 New Taiwan Dollar </description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>3.19340336</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 160.97721648 LBP</title>
+		<link>http://www.floatrates.com/mad/lbp/</link>
+		<description>1 Moroccan Dirham = 160.97721648 Lebanese Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>160.97721648</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 318.67951275 COP</title>
+		<link>http://www.floatrates.com/mad/cop/</link>
+		<description>1 Moroccan Dirham = 318.67951275 Colombian Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>318.67951275</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.87910910 NOK</title>
+		<link>http://www.floatrates.com/mad/nok/</link>
+		<description>1 Moroccan Dirham = 0.87910910 Norwegian Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>0.87910910</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.06066488 VEF</title>
+		<link>http://www.floatrates.com/mad/vef/</link>
+		<description>1 Moroccan Dirham = 1.06066488 Venezuelan Bolivar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>1.06066488</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 32.53086978 NGN</title>
+		<link>http://www.floatrates.com/mad/ngn/</link>
+		<description>1 Moroccan Dirham = 32.53086978 Nigerian Naira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>32.53086978</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 3.07689992 UYU</title>
+		<link>http://www.floatrates.com/mad/uyu/</link>
+		<description>1 Moroccan Dirham = 3.07689992 Uruguayan Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>3.07689992</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 28.31081277 HUF</title>
+		<link>http://www.floatrates.com/mad/huf/</link>
+		<description>1 Moroccan Dirham = 28.31081277 Hungarian Forint</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>28.31081277</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.37932084 PLN</title>
+		<link>http://www.floatrates.com/mad/pln/</link>
+		<description>1 Moroccan Dirham = 0.37932084 Polish Zloty</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>0.37932084</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 5.10512468 DOP</title>
+		<link>http://www.floatrates.com/mad/dop/</link>
+		<description>1 Moroccan Dirham = 5.10512468 Dominican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>5.10512468</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 37.67258754 MRO</title>
+		<link>http://www.floatrates.com/mad/mro/</link>
+		<description>1 Moroccan Dirham = 37.67258754 Mauritanian Ouguiya</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>37.67258754</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 3.26289939 NIO</title>
+		<link>http://www.floatrates.com/mad/nio/</link>
+		<description>1 Moroccan Dirham = 3.26289939 Nicaraguan Córdoba</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>3.26289939</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1,440.16544804 IDR</title>
+		<link>http://www.floatrates.com/mad/idr/</link>
+		<description>1 Moroccan Dirham = 1,440.16544804 Indonesian Rupiah</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>1,440.16544804</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.39865880 SAR</title>
+		<link>http://www.floatrates.com/mad/sar/</link>
+		<description>1 Moroccan Dirham = 0.39865880 Saudi Riyal</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>0.39865880</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.67976808 HRK</title>
+		<link>http://www.floatrates.com/mad/hrk/</link>
+		<description>1 Moroccan Dirham = 0.67976808 Croatian Kuna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>0.67976808</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 51.61369417 AMD</title>
+		<link>http://www.floatrates.com/mad/amd/</link>
+		<description>1 Moroccan Dirham = 51.61369417 Armenia Dram</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>51.61369417</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 12.24380556 DZD</title>
+		<link>http://www.floatrates.com/mad/dzd/</link>
+		<description>1 Moroccan Dirham = 12.24380556 Algerian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>12.24380556</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 116.05632363 KRW</title>
+		<link>http://www.floatrates.com/mad/krw/</link>
+		<description>1 Moroccan Dirham = 116.05632363 South Korean Won</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>116.05632363</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 16.30656624 LKR</title>
+		<link>http://www.floatrates.com/mad/lkr/</link>
+		<description>1 Moroccan Dirham = 16.30656624 Sri Lanka Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>16.30656624</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 2.00314834 MXN</title>
+		<link>http://www.floatrates.com/mad/mxn/</link>
+		<description>1 Moroccan Dirham = 2.00314834 Mexican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>2.00314834</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.37157564 TMT</title>
+		<link>http://www.floatrates.com/mad/tmt/</link>
+		<description>1 Moroccan Dirham = 0.37157564 New Turkmenistan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>0.37157564</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 2.88167404 UAH</title>
+		<link>http://www.floatrates.com/mad/uah/</link>
+		<description>1 Moroccan Dirham = 2.88167404 Ukrainian Hryvnia</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>2.88167404</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.09372461 BWP</title>
+		<link>http://www.floatrates.com/mad/bwp/</link>
+		<description>1 Moroccan Dirham = 1.09372461 Botswana Pula</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>1.09372461</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.43338036 MYR</title>
+		<link>http://www.floatrates.com/mad/myr/</link>
+		<description>1 Moroccan Dirham = 0.43338036 Malaysian Ringgit</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>0.43338036</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 3.46791392 THB</title>
+		<link>http://www.floatrates.com/mad/thb/</link>
+		<description>1 Moroccan Dirham = 3.46791392 Thai Baht</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>3.46791392</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 59.08783468 XOF</title>
+		<link>http://www.floatrates.com/mad/xof/</link>
+		<description>1 Moroccan Dirham = 59.08783468 West African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>59.08783468</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.07541896 JOD</title>
+		<link>http://www.floatrates.com/mad/jod/</link>
+		<description>1 Moroccan Dirham = 0.07541896 Jordanian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.07541896</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 69.38933249 CLP</title>
+		<link>http://www.floatrates.com/mad/clp/</link>
+		<description>1 Moroccan Dirham = 69.38933249 Chilean Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>69.38933249</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.15477314 NZD</title>
+		<link>http://www.floatrates.com/mad/nzd/</link>
+		<description>1 Moroccan Dirham = 0.15477314 New Zealand Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>0.15477314</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.39043692 AED</title>
+		<link>http://www.floatrates.com/mad/aed/</link>
+		<description>1 Moroccan Dirham = 0.39043692 U.A.E Dirham</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>0.39043692</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.34239016 PGK</title>
+		<link>http://www.floatrates.com/mad/pgk/</link>
+		<description>1 Moroccan Dirham = 0.34239016 Papua New Guinean kina</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>0.34239016</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 602.71637946 PYG</title>
+		<link>http://www.floatrates.com/mad/pyg/</link>
+		<description>1 Moroccan Dirham = 602.71637946 Paraguayan Guaraní</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>602.71637946</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.66996768 DKK</title>
+		<link>http://www.floatrates.com/mad/dkk/</link>
+		<description>1 Moroccan Dirham = 0.66996768 Danish Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>0.66996768</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 11.21906592 PKR</title>
+		<link>http://www.floatrates.com/mad/pkr/</link>
+		<description>1 Moroccan Dirham = 11.21906592 Pakistani Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>11.21906592</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.34391867 BRL</title>
+		<link>http://www.floatrates.com/mad/brl/</link>
+		<description>1 Moroccan Dirham = 0.34391867 Brazilian Real</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>0.34391867</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.21578071 BYN</title>
+		<link>http://www.floatrates.com/mad/byn/</link>
+		<description>1 Moroccan Dirham = 0.21578071 Belarussian Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>0.21578071</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 60.18636149 CRC</title>
+		<link>http://www.floatrates.com/mad/crc/</link>
+		<description>1 Moroccan Dirham = 60.18636149 Costa Rican Colón</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>60.18636149</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 6.85845104 INR</title>
+		<link>http://www.floatrates.com/mad/inr/</link>
+		<description>1 Moroccan Dirham = 6.85845104 Indian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>6.85845104</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 6.28083941 RUB</title>
+		<link>http://www.floatrates.com/mad/rub/</link>
+		<description>1 Moroccan Dirham = 6.28083941 Russian Rouble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>6.28083941</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.41728456 RON</title>
+		<link>http://www.floatrates.com/mad/ron/</link>
+		<description>1 Moroccan Dirham = 0.41728456 Romanian New Leu</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>0.41728456</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.18072702 AZN</title>
+		<link>http://www.floatrates.com/mad/azn/</link>
+		<description>1 Moroccan Dirham = 0.18072702 Azerbaijan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>0.18072702</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 35.45913901 KZT</title>
+		<link>http://www.floatrates.com/mad/kzt/</link>
+		<description>1 Moroccan Dirham = 35.45913901 Kazakhstani Tenge</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>35.45913901</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.44037869 ZAR</title>
+		<link>http://www.floatrates.com/mad/zar/</link>
+		<description>1 Moroccan Dirham = 1.44037869 South African Rand</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>1.44037869</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.83056157 HKD</title>
+		<link>http://www.floatrates.com/mad/hkd/</link>
+		<description>1 Moroccan Dirham = 0.83056157 Hong Kong Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>0.83056157</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.83180209 MDL</title>
+		<link>http://www.floatrates.com/mad/mdl/</link>
+		<description>1 Moroccan Dirham = 1.83180209 Moldova Lei</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>1.83180209</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 860.71803725 UZS</title>
+		<link>http://www.floatrates.com/mad/uzs/</link>
+		<description>1 Moroccan Dirham = 860.71803725 Uzbekistan Sum</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>860.71803725</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.03997257 BHD</title>
+		<link>http://www.floatrates.com/mad/bhd/</link>
+		<description>1 Moroccan Dirham = 0.03997257 Bahrain Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.03997257</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.08049781 LYD</title>
+		<link>http://www.floatrates.com/mad/lyd/</link>
+		<description>1 Moroccan Dirham = 0.08049781 Libyan Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>0.08049781</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 59.08783468 XAF</title>
+		<link>http://www.floatrates.com/mad/xaf/</link>
+		<description>1 Moroccan Dirham = 59.08783468 Central African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>59.08783468</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 10.80324193 RSD</title>
+		<link>http://www.floatrates.com/mad/rsd/</link>
+		<description>1 Moroccan Dirham = 10.80324193 Serbian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>10.80324193</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 10.95205949 NPR</title>
+		<link>http://www.floatrates.com/mad/npr/</link>
+		<description>1 Moroccan Dirham = 10.95205949 Nepalese Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>10.95205949</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.26438806 TND</title>
+		<link>http://www.floatrates.com/mad/tnd/</link>
+		<description>1 Moroccan Dirham = 0.26438806 Tunisian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>0.26438806</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 2,417.10450140 VND</title>
+		<link>http://www.floatrates.com/mad/vnd/</link>
+		<description>1 Moroccan Dirham = 2,417.10450140 Vietnamese Dong</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>2,417.10450140</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 1.83440693 ARS</title>
+		<link>http://www.floatrates.com/mad/ars/</link>
+		<description>1 Moroccan Dirham = 1.83440693 Argentine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>1.83440693</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 2.30726179 CZK</title>
+		<link>http://www.floatrates.com/mad/czk/</link>
+		<description>1 Moroccan Dirham = 2.30726179 Czech Koruna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>2.30726179</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.04087621 OMR</title>
+		<link>http://www.floatrates.com/mad/omr/</link>
+		<description>1 Moroccan Dirham = 0.04087621 Omani Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.04087621</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.21262006 BBD</title>
+		<link>http://www.floatrates.com/mad/bbd/</link>
+		<description>1 Moroccan Dirham = 0.21262006 Barbadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>0.21262006</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.34402641 PEN</title>
+		<link>http://www.floatrates.com/mad/pen/</link>
+		<description>1 Moroccan Dirham = 0.34402641 Peruvian Nuevo Sol</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>0.34402641</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.72928682 BOB</title>
+		<link>http://www.floatrates.com/mad/bob/</link>
+		<description>1 Moroccan Dirham = 0.72928682 Bolivian Boliviano</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>0.72928682</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.70318687 CNY</title>
+		<link>http://www.floatrates.com/mad/cny/</link>
+		<description>1 Moroccan Dirham = 0.70318687 Chinese Yuan</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>0.70318687</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 11.04029682 ISK</title>
+		<link>http://www.floatrates.com/mad/isk/</link>
+		<description>1 Moroccan Dirham = 11.04029682 Icelandic Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>11.04029682</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.38696852 QAR</title>
+		<link>http://www.floatrates.com/mad/qar/</link>
+		<description>1 Moroccan Dirham = 0.38696852 Qatari Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>0.38696852</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.17618199 BGN</title>
+		<link>http://www.floatrates.com/mad/bgn/</link>
+		<description>1 Moroccan Dirham = 0.17618199 Bulgarian Lev</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>0.17618199</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.37349568 ILS</title>
+		<link>http://www.floatrates.com/mad/ils/</link>
+		<description>1 Moroccan Dirham = 0.37349568 Israeli New Sheqel</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>0.37349568</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.14332857 SGD</title>
+		<link>http://www.floatrates.com/mad/sgd/</link>
+		<description>1 Moroccan Dirham = 0.14332857 Singapore Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>0.14332857</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 0.40983570 TRY</title>
+		<link>http://www.floatrates.com/mad/try/</link>
+		<description>1 Moroccan Dirham = 0.40983570 Turkish Lira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>0.40983570</exchangeRate>
+	</item>
+	<item>
+		<title>1 MAD = 7.42235111 KGS</title>
+		<link>http://www.floatrates.com/mad/kgs/</link>
+		<description>1 Moroccan Dirham = 7.42235111 Kyrgyzstan Som</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>MAD</baseCurrency>
+		<baseName>Moroccan Dirham</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>7.42235111</exchangeRate>
+	</item>
+</channel>

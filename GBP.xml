@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="http://www.floatrates.com/currency-rates.xsl" ?>
+<channel>
+	<title>XML Daily Foreign Exchange Rates for U.K. Pound Sterling (GBP)</title>
+	<link>http://www.floatrates.com/currency/gbp/</link>
+	<xmlLink>http://www.floatrates.com/daily/gbp.xml</xmlLink>
+	<description>XML Daily foreign exchange rates for U.K. Pound Sterling (GBP) from the Float Rates. Published at Thu, 7 Dec 2017 12:00:01 GMT.</description>
+	<language>en</language>
+	<baseCurrency>GBP</baseCurrency>
+	<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+	<lastBuildDate>Thu, 7 Dec 2017 12:00:01 GMT</lastBuildDate>
+	<item>
+		<title>1 GBP = 1.33783225 USD</title>
+		<link>http://www.floatrates.com/gbp/usd/</link>
+		<description>1 U.K. Pound Sterling = 1.33783225 U.S. Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>USD</targetCurrency>
+		<targetName>U.S. Dollar</targetName>
+		<exchangeRate>1.33783225</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.13434561 EUR</title>
+		<link>http://www.floatrates.com/gbp/eur/</link>
+		<description>1 U.K. Pound Sterling = 1.13434561 Euro</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>EUR</targetCurrency>
+		<targetName>Euro</targetName>
+		<exchangeRate>1.13434561</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 150.62244628 JPY</title>
+		<link>http://www.floatrates.com/gbp/jpy/</link>
+		<description>1 U.K. Pound Sterling = 150.62244628 Japanese Yen</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>JPY</targetCurrency>
+		<targetName>Japanese Yen</targetName>
+		<exchangeRate>150.62244628</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.32579516 CHF</title>
+		<link>http://www.floatrates.com/gbp/chf/</link>
+		<description>1 U.K. Pound Sterling = 1.32579516 Swiss Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CHF</targetCurrency>
+		<targetName>Swiss Franc</targetName>
+		<exchangeRate>1.32579516</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.70717948 CAD</title>
+		<link>http://www.floatrates.com/gbp/cad/</link>
+		<description>1 U.K. Pound Sterling = 1.70717948 Canadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CAD</targetCurrency>
+		<targetName>Canadian Dollar</targetName>
+		<exchangeRate>1.70717948</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.76890777 AUD</title>
+		<link>http://www.floatrates.com/gbp/aud/</link>
+		<description>1 U.K. Pound Sterling = 1.76890777 Australian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AUD</targetCurrency>
+		<targetName>Australian Dollar</targetName>
+		<exchangeRate>1.76890777</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 356.27040625 HUF</title>
+		<link>http://www.floatrates.com/gbp/huf/</link>
+		<description>1 U.K. Pound Sterling = 356.27040625 Hungarian Forint</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HUF</targetCurrency>
+		<targetName>Hungarian Forint</targetName>
+		<exchangeRate>356.27040625</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.77346908 PLN</title>
+		<link>http://www.floatrates.com/gbp/pln/</link>
+		<description>1 U.K. Pound Sterling = 4.77346908 Polish Zloty</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PLN</targetCurrency>
+		<targetName>Polish Zloty</targetName>
+		<exchangeRate>4.77346908</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 64.24417614 DOP</title>
+		<link>http://www.floatrates.com/gbp/dop/</link>
+		<description>1 U.K. Pound Sterling = 64.24417614 Dominican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DOP</targetCurrency>
+		<targetName>Dominican Peso</targetName>
+		<exchangeRate>64.24417614</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 474.08134055 MRO</title>
+		<link>http://www.floatrates.com/gbp/mro/</link>
+		<description>1 U.K. Pound Sterling = 474.08134055 Mauritanian Ouguiya</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MRO</targetCurrency>
+		<targetName>Mauritanian Ouguiya</targetName>
+		<exchangeRate>474.08134055</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 38.72048442 UYU</title>
+		<link>http://www.floatrates.com/gbp/uyu/</link>
+		<description>1 U.K. Pound Sterling = 38.72048442 Uruguayan Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UYU</targetCurrency>
+		<targetName>Uruguayan Peso</targetName>
+		<exchangeRate>38.72048442</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 18,123.40512734 IDR</title>
+		<link>http://www.floatrates.com/gbp/idr/</link>
+		<description>1 U.K. Pound Sterling = 18,123.40512734 Indonesian Rupiah</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>IDR</targetCurrency>
+		<targetName>Indonesian Rupiah</targetName>
+		<exchangeRate>18,123.40512734</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 5.01682284 SAR</title>
+		<link>http://www.floatrates.com/gbp/sar/</link>
+		<description>1 U.K. Pound Sterling = 5.01682284 Saudi Riyal</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SAR</targetCurrency>
+		<targetName>Saudi Riyal</targetName>
+		<exchangeRate>5.01682284</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 8.55437292 HRK</title>
+		<link>http://www.floatrates.com/gbp/hrk/</link>
+		<description>1 U.K. Pound Sterling = 8.55437292 Croatian Kuna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HRK</targetCurrency>
+		<targetName>Croatian Kuna</targetName>
+		<exchangeRate>8.55437292</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 649.51974148 AMD</title>
+		<link>http://www.floatrates.com/gbp/amd/</link>
+		<description>1 U.K. Pound Sterling = 649.51974148 Armenia Dram</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AMD</targetCurrency>
+		<targetName>Armenia Dram</targetName>
+		<exchangeRate>649.51974148</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 41.06114869 NIO</title>
+		<link>http://www.floatrates.com/gbp/nio/</link>
+		<description>1 U.K. Pound Sterling = 41.06114869 Nicaraguan Córdoba</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NIO</targetCurrency>
+		<targetName>Nicaraguan Córdoba</targetName>
+		<exchangeRate>41.06114869</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 154.07913643 DZD</title>
+		<link>http://www.floatrates.com/gbp/dzd/</link>
+		<description>1 U.K. Pound Sterling = 154.07913643 Algerian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DZD</targetCurrency>
+		<targetName>Algerian Dinar</targetName>
+		<exchangeRate>154.07913643</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1,460.48203944 KRW</title>
+		<link>http://www.floatrates.com/gbp/krw/</link>
+		<description>1 U.K. Pound Sterling = 1,460.48203944 South Korean Won</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KRW</targetCurrency>
+		<targetName>South Korean Won</targetName>
+		<exchangeRate>1,460.48203944</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 205.20594116 LKR</title>
+		<link>http://www.floatrates.com/gbp/lkr/</link>
+		<description>1 U.K. Pound Sterling = 205.20594116 Sri Lanka Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LKR</targetCurrency>
+		<targetName>Sri Lanka Rupee</targetName>
+		<exchangeRate>205.20594116</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 25.20812376 MXN</title>
+		<link>http://www.floatrates.com/gbp/mxn/</link>
+		<description>1 U.K. Pound Sterling = 25.20812376 Mexican Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MXN</targetCurrency>
+		<targetName>Mexican Peso</targetName>
+		<exchangeRate>25.20812376</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.67600153 TMT</title>
+		<link>http://www.floatrates.com/gbp/tmt/</link>
+		<description>1 U.K. Pound Sterling = 4.67600153 New Turkmenistan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TMT</targetCurrency>
+		<targetName>New Turkmenistan Manat</targetName>
+		<exchangeRate>4.67600153</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 13.76370625 BWP</title>
+		<link>http://www.floatrates.com/gbp/bwp/</link>
+		<description>1 U.K. Pound Sterling = 13.76370625 Botswana Pula</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BWP</targetCurrency>
+		<targetName>Botswana Pula</targetName>
+		<exchangeRate>13.76370625</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 5.45376777 MYR</title>
+		<link>http://www.floatrates.com/gbp/myr/</link>
+		<description>1 U.K. Pound Sterling = 5.45376777 Malaysian Ringgit</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MYR</targetCurrency>
+		<targetName>Malaysian Ringgit</targetName>
+		<exchangeRate>5.45376777</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 43.64110323 THB</title>
+		<link>http://www.floatrates.com/gbp/thb/</link>
+		<description>1 U.K. Pound Sterling = 43.64110323 Thai Baht</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>THB</targetCurrency>
+		<targetName>Thai Baht</targetName>
+		<exchangeRate>43.64110323</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 743.57621028 XOF</title>
+		<link>http://www.floatrates.com/gbp/xof/</link>
+		<description>1 U.K. Pound Sterling = 743.57621028 West African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XOF</targetCurrency>
+		<targetName>West African CFA Franc</targetName>
+		<exchangeRate>743.57621028</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 36.26371272 UAH</title>
+		<link>http://www.floatrates.com/gbp/uah/</link>
+		<description>1 U.K. Pound Sterling = 36.26371272 Ukrainian Hryvnia</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UAH</targetCurrency>
+		<targetName>Ukrainian Hryvnia</targetName>
+		<exchangeRate>36.26371272</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 873.21285617 CLP</title>
+		<link>http://www.floatrates.com/gbp/clp/</link>
+		<description>1 U.K. Pound Sterling = 873.21285617 Chilean Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CLP</targetCurrency>
+		<targetName>Chilean Peso</targetName>
+		<exchangeRate>873.21285617</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.94770422 NZD</title>
+		<link>http://www.floatrates.com/gbp/nzd/</link>
+		<description>1 U.K. Pound Sterling = 1.94770422 New Zealand Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NZD</targetCurrency>
+		<targetName>New Zealand Dollar</targetName>
+		<exchangeRate>1.94770422</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.91335662 AED</title>
+		<link>http://www.floatrates.com/gbp/aed/</link>
+		<description>1 U.K. Pound Sterling = 4.91335662 U.A.E Dirham</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AED</targetCurrency>
+		<targetName>U.A.E Dirham</targetName>
+		<exchangeRate>4.91335662</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.30872414 PGK</title>
+		<link>http://www.floatrates.com/gbp/pgk/</link>
+		<description>1 U.K. Pound Sterling = 4.30872414 Papua New Guinean kina</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PGK</targetCurrency>
+		<targetName>Papua New Guinean kina</targetName>
+		<exchangeRate>4.30872414</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 0.94909119 JOD</title>
+		<link>http://www.floatrates.com/gbp/jod/</link>
+		<description>1 U.K. Pound Sterling = 0.94909119 Jordanian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>JOD</targetCurrency>
+		<targetName>Jordanian Dinar</targetName>
+		<exchangeRate>0.94909119</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 8.43104216 DKK</title>
+		<link>http://www.floatrates.com/gbp/dkk/</link>
+		<description>1 U.K. Pound Sterling = 8.43104216 Danish Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>DKK</targetCurrency>
+		<targetName>Danish Krone</targetName>
+		<exchangeRate>8.43104216</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 141.18355433 PKR</title>
+		<link>http://www.floatrates.com/gbp/pkr/</link>
+		<description>1 U.K. Pound Sterling = 141.18355433 Pakistani Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PKR</targetCurrency>
+		<targetName>Pakistani Rupee</targetName>
+		<exchangeRate>141.18355433</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.32795927 BRL</title>
+		<link>http://www.floatrates.com/gbp/brl/</link>
+		<description>1 U.K. Pound Sterling = 4.32795927 Brazilian Real</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BRL</targetCurrency>
+		<targetName>Brazilian Real</targetName>
+		<exchangeRate>4.32795927</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 2.71543890 BYN</title>
+		<link>http://www.floatrates.com/gbp/byn/</link>
+		<description>1 U.K. Pound Sterling = 2.71543890 Belarussian Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BYN</targetCurrency>
+		<targetName>Belarussian Ruble</targetName>
+		<exchangeRate>2.71543890</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 7,584.73489056 PYG</title>
+		<link>http://www.floatrates.com/gbp/pyg/</link>
+		<description>1 U.K. Pound Sterling = 7,584.73489056 Paraguayan Guaraní</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PYG</targetCurrency>
+		<targetName>Paraguayan Guaraní</targetName>
+		<exchangeRate>7,584.73489056</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 86.30847726 INR</title>
+		<link>http://www.floatrates.com/gbp/inr/</link>
+		<description>1 U.K. Pound Sterling = 86.30847726 Indian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>INR</targetCurrency>
+		<targetName>Indian Rupee</targetName>
+		<exchangeRate>86.30847726</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 79.03966680 RUB</title>
+		<link>http://www.floatrates.com/gbp/rub/</link>
+		<description>1 U.K. Pound Sterling = 79.03966680 Russian Rouble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RUB</targetCurrency>
+		<targetName>Russian Rouble</targetName>
+		<exchangeRate>79.03966680</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 5.25121417 RON</title>
+		<link>http://www.floatrates.com/gbp/ron/</link>
+		<description>1 U.K. Pound Sterling = 5.25121417 Romanian New Leu</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RON</targetCurrency>
+		<targetName>Romanian New Leu</targetName>
+		<exchangeRate>5.25121417</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 2.27431444 AZN</title>
+		<link>http://www.floatrates.com/gbp/azn/</link>
+		<description>1 U.K. Pound Sterling = 2.27431444 Azerbaijan Manat</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>AZN</targetCurrency>
+		<targetName>Azerbaijan Manat</targetName>
+		<exchangeRate>2.27431444</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 757.40034858 CRC</title>
+		<link>http://www.floatrates.com/gbp/crc/</link>
+		<description>1 U.K. Pound Sterling = 757.40034858 Costa Rican Colón</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CRC</targetCurrency>
+		<targetName>Costa Rican Colón</targetName>
+		<exchangeRate>757.40034858</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 446.22674614 KZT</title>
+		<link>http://www.floatrates.com/gbp/kzt/</link>
+		<description>1 U.K. Pound Sterling = 446.22674614 Kazakhstani Tenge</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KZT</targetCurrency>
+		<targetName>Kazakhstani Tenge</targetName>
+		<exchangeRate>446.22674614</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 18.12608865 ZAR</title>
+		<link>http://www.floatrates.com/gbp/zar/</link>
+		<description>1 U.K. Pound Sterling = 18.12608865 South African Rand</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ZAR</targetCurrency>
+		<targetName>South African Rand</targetName>
+		<exchangeRate>18.12608865</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 10.45199622 HKD</title>
+		<link>http://www.floatrates.com/gbp/hkd/</link>
+		<description>1 U.K. Pound Sterling = 10.45199622 Hong Kong Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>HKD</targetCurrency>
+		<targetName>Hong Kong Dollar</targetName>
+		<exchangeRate>10.45199622</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 23.05185932 MDL</title>
+		<link>http://www.floatrates.com/gbp/mdl/</link>
+		<description>1 U.K. Pound Sterling = 23.05185932 Moldova Lei</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MDL</targetCurrency>
+		<targetName>Moldova Lei</targetName>
+		<exchangeRate>23.05185932</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 0.50302493 BHD</title>
+		<link>http://www.floatrates.com/gbp/bhd/</link>
+		<description>1 U.K. Pound Sterling = 0.50302493 Bahrain Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BHD</targetCurrency>
+		<targetName>Bahrain Dinar</targetName>
+		<exchangeRate>0.50302493</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.01300475 LYD</title>
+		<link>http://www.floatrates.com/gbp/lyd/</link>
+		<description>1 U.K. Pound Sterling = 1.01300475 Libyan Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LYD</targetCurrency>
+		<targetName>Libyan Dinar</targetName>
+		<exchangeRate>1.01300475</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 743.57621028 XAF</title>
+		<link>http://www.floatrates.com/gbp/xaf/</link>
+		<description>1 U.K. Pound Sterling = 743.57621028 Central African CFA Franc</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>XAF</targetCurrency>
+		<targetName>Central African CFA Franc</targetName>
+		<exchangeRate>743.57621028</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 10,831.49280577 UZS</title>
+		<link>http://www.floatrates.com/gbp/uzs/</link>
+		<description>1 U.K. Pound Sterling = 10,831.49280577 Uzbekistan Sum</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>UZS</targetCurrency>
+		<targetName>Uzbekistan Sum</targetName>
+		<exchangeRate>10,831.49280577</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 137.82347813 NPR</title>
+		<link>http://www.floatrates.com/gbp/npr/</link>
+		<description>1 U.K. Pound Sterling = 137.82347813 Nepalese Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NPR</targetCurrency>
+		<targetName>Nepalese Rupee</targetName>
+		<exchangeRate>137.82347813</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 3.32712597 TND</title>
+		<link>http://www.floatrates.com/gbp/tnd/</link>
+		<description>1 U.K. Pound Sterling = 3.32712597 Tunisian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TND</targetCurrency>
+		<targetName>Tunisian Dinar</targetName>
+		<exchangeRate>3.32712597</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 30,417.45250430 VND</title>
+		<link>http://www.floatrates.com/gbp/vnd/</link>
+		<description>1 U.K. Pound Sterling = 30,417.45250430 Vietnamese Dong</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>VND</targetCurrency>
+		<targetName>Vietnamese Dong</targetName>
+		<exchangeRate>30,417.45250430</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 135.95072040 RSD</title>
+		<link>http://www.floatrates.com/gbp/rsd/</link>
+		<description>1 U.K. Pound Sterling = 135.95072040 Serbian Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>RSD</targetCurrency>
+		<targetName>Serbian Dinar</targetName>
+		<exchangeRate>135.95072040</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 29.03516410 CZK</title>
+		<link>http://www.floatrates.com/gbp/czk/</link>
+		<description>1 U.K. Pound Sterling = 29.03516410 Czech Koruna</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CZK</targetCurrency>
+		<targetName>Czech Koruna</targetName>
+		<exchangeRate>29.03516410</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 0.51439650 OMR</title>
+		<link>http://www.floatrates.com/gbp/omr/</link>
+		<description>1 U.K. Pound Sterling = 0.51439650 Omani Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>OMR</targetCurrency>
+		<targetName>Omani Rial</targetName>
+		<exchangeRate>0.51439650</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 2.67566449 BBD</title>
+		<link>http://www.floatrates.com/gbp/bbd/</link>
+		<description>1 U.K. Pound Sterling = 2.67566449 Barbadian Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BBD</targetCurrency>
+		<targetName>Barbadian Dollar</targetName>
+		<exchangeRate>2.67566449</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.32931513 PEN</title>
+		<link>http://www.floatrates.com/gbp/pen/</link>
+		<description>1 U.K. Pound Sterling = 4.32931513 Peruvian Nuevo Sol</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PEN</targetCurrency>
+		<targetName>Peruvian Nuevo Sol</targetName>
+		<exchangeRate>4.32931513</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 23.08463934 ARS</title>
+		<link>http://www.floatrates.com/gbp/ars/</link>
+		<description>1 U.K. Pound Sterling = 23.08463934 Argentine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ARS</targetCurrency>
+		<targetName>Argentine Peso</targetName>
+		<exchangeRate>23.08463934</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 8.84908087 CNY</title>
+		<link>http://www.floatrates.com/gbp/cny/</link>
+		<description>1 U.K. Pound Sterling = 8.84908087 Chinese Yuan</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>CNY</targetCurrency>
+		<targetName>Chinese Yuan</targetName>
+		<exchangeRate>8.84908087</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 138.93387890 ISK</title>
+		<link>http://www.floatrates.com/gbp/isk/</link>
+		<description>1 U.K. Pound Sterling = 138.93387890 Icelandic Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ISK</targetCurrency>
+		<targetName>Icelandic Krona</targetName>
+		<exchangeRate>138.93387890</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.86970938 QAR</title>
+		<link>http://www.floatrates.com/gbp/qar/</link>
+		<description>1 U.K. Pound Sterling = 4.86970938 Qatari Rial</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>QAR</targetCurrency>
+		<targetName>Qatari Rial</targetName>
+		<exchangeRate>4.86970938</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 2.21711857 BGN</title>
+		<link>http://www.floatrates.com/gbp/bgn/</link>
+		<description>1 U.K. Pound Sterling = 2.21711857 Bulgarian Lev</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BGN</targetCurrency>
+		<targetName>Bulgarian Lev</targetName>
+		<exchangeRate>2.21711857</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 12.58425214 MAD</title>
+		<link>http://www.floatrates.com/gbp/mad/</link>
+		<description>1 U.K. Pound Sterling = 12.58425214 Moroccan Dirham</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MAD</targetCurrency>
+		<targetName>Moroccan Dirham</targetName>
+		<exchangeRate>12.58425214</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 9.17752922 BOB</title>
+		<link>http://www.floatrates.com/gbp/bob/</link>
+		<description>1 U.K. Pound Sterling = 9.17752922 Bolivian Boliviano</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BOB</targetCurrency>
+		<targetName>Bolivian Boliviano</targetName>
+		<exchangeRate>9.17752922</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4.70016378 ILS</title>
+		<link>http://www.floatrates.com/gbp/ils/</link>
+		<description>1 U.K. Pound Sterling = 4.70016378 Israeli New Sheqel</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>ILS</targetCurrency>
+		<targetName>Israeli New Sheqel</targetName>
+		<exchangeRate>4.70016378</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.80368287 SGD</title>
+		<link>http://www.floatrates.com/gbp/sgd/</link>
+		<description>1 U.K. Pound Sterling = 1.80368287 Singapore Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SGD</targetCurrency>
+		<targetName>Singapore Dollar</targetName>
+		<exchangeRate>1.80368287</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 5.15747580 TRY</title>
+		<link>http://www.floatrates.com/gbp/try/</link>
+		<description>1 U.K. Pound Sterling = 5.15747580 Turkish Lira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TRY</targetCurrency>
+		<targetName>Turkish Lira</targetName>
+		<exchangeRate>5.15747580</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 93.40473785 KGS</title>
+		<link>http://www.floatrates.com/gbp/kgs/</link>
+		<description>1 U.K. Pound Sterling = 93.40473785 Kyrgyzstan Som</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KGS</targetCurrency>
+		<targetName>Kyrgyzstan Som</targetName>
+		<exchangeRate>93.40473785</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 0.40369676 KWD</title>
+		<link>http://www.floatrates.com/gbp/kwd/</link>
+		<description>1 U.K. Pound Sterling = 0.40369676 Kuwaiti Dinar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>KWD</targetCurrency>
+		<targetName>Kuwaiti Dinar</targetName>
+		<exchangeRate>0.40369676</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 11.26107781 SEK</title>
+		<link>http://www.floatrates.com/gbp/sek/</link>
+		<description>1 U.K. Pound Sterling = 11.26107781 Swedish Krona</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>SEK</targetCurrency>
+		<targetName>Swedish Krona</targetName>
+		<exchangeRate>11.26107781</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 67.80238136 PHP</title>
+		<link>http://www.floatrates.com/gbp/php/</link>
+		<description>1 U.K. Pound Sterling = 67.80238136 Philippine Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>PHP</targetCurrency>
+		<targetName>Philippine Peso</targetName>
+		<exchangeRate>67.80238136</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 11.79299072 TJS</title>
+		<link>http://www.floatrates.com/gbp/tjs/</link>
+		<description>1 U.K. Pound Sterling = 11.79299072 Tajikistan Ruble</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TJS</targetCurrency>
+		<targetName>Tajikistan Ruble</targetName>
+		<exchangeRate>11.79299072</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 1.80179247 BND</title>
+		<link>http://www.floatrates.com/gbp/bnd/</link>
+		<description>1 U.K. Pound Sterling = 1.80179247 Brunei Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>BND</targetCurrency>
+		<targetName>Brunei Dollar</targetName>
+		<exchangeRate>1.80179247</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 44.95036082 MUR</title>
+		<link>http://www.floatrates.com/gbp/mur/</link>
+		<description>1 U.K. Pound Sterling = 44.95036082 Mauritian Rupee</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>MUR</targetCurrency>
+		<targetName>Mauritian Rupee</targetName>
+		<exchangeRate>44.95036082</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 9.01792583 TTD</title>
+		<link>http://www.floatrates.com/gbp/ttd/</link>
+		<description>1 U.K. Pound Sterling = 9.01792583 Trinidad Tobago Dollar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TTD</targetCurrency>
+		<targetName>Trinidad Tobago Dollar</targetName>
+		<exchangeRate>9.01792583</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 40.18659313 TWD</title>
+		<link>http://www.floatrates.com/gbp/twd/</link>
+		<description>1 U.K. Pound Sterling = 40.18659313 New Taiwan Dollar </description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>TWD</targetCurrency>
+		<targetName>New Taiwan Dollar </targetName>
+		<exchangeRate>40.18659313</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 23.84520101 EGP</title>
+		<link>http://www.floatrates.com/gbp/egp/</link>
+		<description>1 U.K. Pound Sterling = 23.84520101 Egyptian Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>EGP</targetCurrency>
+		<targetName>Egyptian Pound</targetName>
+		<exchangeRate>23.84520101</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 4,010.34334162 COP</title>
+		<link>http://www.floatrates.com/gbp/cop/</link>
+		<description>1 U.K. Pound Sterling = 4,010.34334162 Colombian Peso</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>COP</targetCurrency>
+		<targetName>Colombian Peso</targetName>
+		<exchangeRate>4,010.34334162</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 11.06293061 NOK</title>
+		<link>http://www.floatrates.com/gbp/nok/</link>
+		<description>1 U.K. Pound Sterling = 11.06293061 Norwegian Krone</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NOK</targetCurrency>
+		<targetName>Norwegian Krone</targetName>
+		<exchangeRate>11.06293061</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 13.34767430 VEF</title>
+		<link>http://www.floatrates.com/gbp/vef/</link>
+		<description>1 U.K. Pound Sterling = 13.34767430 Venezuelan Bolivar</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>VEF</targetCurrency>
+		<targetName>Venezuelan Bolivar</targetName>
+		<exchangeRate>13.34767430</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 409.37666772 NGN</title>
+		<link>http://www.floatrates.com/gbp/ngn/</link>
+		<description>1 U.K. Pound Sterling = 409.37666772 Nigerian Naira</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>NGN</targetCurrency>
+		<targetName>Nigerian Naira</targetName>
+		<exchangeRate>409.37666772</exchangeRate>
+	</item>
+	<item>
+		<title>1 GBP = 2,025.77788161 LBP</title>
+		<link>http://www.floatrates.com/gbp/lbp/</link>
+		<description>1 U.K. Pound Sterling = 2,025.77788161 Lebanese Pound</description>
+		<pubDate>Thu, 7 Dec 2017 12:00:01 GMT</pubDate>
+		<baseCurrency>GBP</baseCurrency>
+		<baseName>U.K. Pound Sterling</baseName>
+		<targetCurrency>LBP</targetCurrency>
+		<targetName>Lebanese Pound</targetName>
+		<exchangeRate>2,025.77788161</exchangeRate>
+	</item>
+</channel>
