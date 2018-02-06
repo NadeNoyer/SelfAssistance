@@ -74,6 +74,8 @@
 				
 			<div class="collapse navbar-collapse" id="main-menu" style="margin-bottom: 0px;">
 				<ul class="nav navbar-nav">
+					<!-- TRSF FICHIERS -->
+					<li><a href="<?php echo $this->link('','transfert');?>"> Transfert Fichiers Volumineux </a></li>
 					<!-- V11 -->
 					<li class="dropdown">  
 						<a data-toggle="dropdown" href="#">Movex V11<b class="caret"></b></a>

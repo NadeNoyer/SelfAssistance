@@ -15,7 +15,7 @@ class V11ProdController extends Controller {
 
 	if ($this->post) {
 		 
-		$post=$this->post;
+		$post=$this->post; 
 	 
 		/* si on clic sur Valider */
 		if (isset($post)) {

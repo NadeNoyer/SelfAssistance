@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title><?php echo  $app_title?> - Comeca </title>
+		<meta charset="utf-8" />
+		<!-- pour etre trouvé sur google -->
+		<meta name="descriptif" content="comeca" <?php echo  $app_desc?> 
+		<meta name="Author" content="nadine noyer">
+		<!-- pour bootstrap -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+ 		 
+		<link rel="stylesheet" href="Ressources/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" href="Ressources/style.css">
+
+		<!-- script JS si le fichier est chargé -->
+		<script type="text/javascript" src="Ressources/jquery-2.1.3.js"> </script> 
+		<script type="text/javascript" src="Ressources/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="Ressources/script.js"> </script>
+	 
+</head>
+
+	<body id="<?php echo  $app_body;?>">
+		
+		<div class="container" >
+		 
+			<div>
+				<div class="col-sm-12"> &nbsp; </div>
+					<div class="row center-block col-sm-12">
+						<div class="col-sm-4"><img id="logoTop" src="Ressources/logo.jpg" alt="logoTop"   height="50"/></div>
+						<div class="col-sm-6"><h2> G R O U P  - C O M E C A  </h2></div>
+						<div class="col-sm-12"> &nbsp; </div>
+					</div>
+			</div>
+	 
+				<fieldset class =  "thumbnail">
+			 
+				 <div class="col-sm-12 ">
+				 	<legend class="scheduler-border" style="font-weight: normal"> 
+						<h3>Choisir un Module </h3>
+					</legend>
+	     
+	 				<!-- ligne of et mettre en statit 22 -->
+				    <div class="col-sm-12 " style="margin-top: 30px;">		 
+						<ul class="form-group col-sm-12" style="list-style-type:none;">
+						  	<li><h4><a href="http://vairao/GrandLivreClient/"> Grand Livre Client </a></h4></li>
+						  	<li><h4><a href="http://vairao/WorkflowFRS/index.php?action=choixFournisseur"> Workflow Frs </a></h4> </li>
+						  	<li><h4><a href="http://vairao/SelfAssistance/"> Self Assistance </a></h4></li>
+						</ul>
+						 
+					</div>
+				 
+				</div>
+ 	
+		</fieldset> 
+			
+		</div>
+		 
+	</body>
+		
+</html>
