@@ -15,7 +15,33 @@ class M3IndusModel extends Model{
 	
 		$stmt = $this->pdo->query($query);
 		return $stmt->fetch();
+		}
+
+	public function ListeUnite() {
+		
+		$query = "SELECT CTSTKY, CTTX15 FROM ".$this->biblio.".CSYTAB where CTCONO=100 AND CTSTCO='UNIT' ORDER BY CTSTKY";
+		//var_dump($query);
+		$stmt = $this->pdo->query($query);
+		$recu=$stmt->fetchAll();
+		//var_dump($recu);
+		return $recu;
+	}
 	
+
+	public function ExistUnite($OldUnit) {
+		
+		$query = "SELECT CTSTKY FROM ".$this->biblio.".CSYTAB where CTSTCO='UNIT' AND CTSTKY='".$OldUnit."'";
+		
+		$stmt = $this->pdo->query($query);
+		$recu=$stmt->fetch();
+		//var_dump($recu);
+		if(trim($recu['CTSTKY'])==$OldUnit)
+		{
+			return true;
+		}
+		else{
+			return false;	
+		}
 	}
 
 	public function existUR($CodeArt,$OldUnit,$TypeU) {
@@ -208,16 +234,17 @@ class M3IndusModel extends Model{
 		}		
 		if (isset($result['PasOK'])) {
 			$this->pdo->rollBack();
-			echo 'La conversion n\'a pas eu lieu<br>';
-			echo 'derniere erreur'.$result['PasOK'];
+			$text= 'La conversion n\'a pas eu lieu\n';
+			$text=$text.'derniere erreur:\n'.$result['PasOK'];
+			echo("<script> alert(' ".$text." ')</script>");
 		} else {
 			$this->pdo->commit();
 			$text='';
 			foreach ($result as $key => $value) {
 				# code...
-				$text=$text.$value.'<br>';
+				$text=$text.$value.'\n';
 			}
-			echo $text;
+			echo("<script> alert(' ".$text." ')</script>");
 		}
 	}
  

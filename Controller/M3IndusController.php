@@ -7,6 +7,8 @@ class M3IndusController extends Controller {
 		$app_title="Maj MOVEX" ;
 		$app_desc="Comeca" ;
 		$app_body="body_Index" ;
+		$recu=true;
+		$erreur=array();
 		
 		$nomChamp='Code Article'; 
 		require_once('Model/M3IndusModel.php');
@@ -24,27 +26,40 @@ class M3IndusController extends Controller {
 					 
 					$articleModel = new M3IndusModel($this->getBiblio(),null,null);
 					$article = $articleModel->litUMbase($codArt);
-					var_dump($article) ;
-					if(!$article){} 
+					if($article){
+						$listeUniteModel = new M3IndusModel($this->getBiblio(),null,null);
+						$TabUnite=$listeUniteModel->listeUnite();								
+					} 
 					else 	{ // fin if (!empty($this->post['CodeArt']) )
 								echo 'article non trouvé ';
 							}
 					}
-						// si clic bouton update
+					// si clic bouton update
+					
   				if (isset($this->post['update']) ){
   					$codArt=$this->post['codeArtSave'];
 
 							if (!empty($this->post['unite'])) {
-								 
+								 $CtrlUnite = new M3IndusModel($this->getBiblio(),null,null);
+								 $recu=$CtrlUnite->ExistUnite($this->post['unite']);
+								 //var_dump($recu);
+								 if($recu){
+									if (!empty($this->post['coeff'])){
+										$updateArticleModel = new M3IndusModel($this->getBiblio(),null,null);
+										// $updateArticle = $updateArticleModel->updateUNM($codArt,$this->post['unite']);
+										$updateQTArticle = $updateArticleModel->updateQTStk($codArt,$this->post['coeff'],$this->post['unite']);
 
-								if (!empty($this->post['coeff'])){
-									$updateArticleModel = new M3IndusModel($this->getBiblio(),null,null);
-									// $updateArticle = $updateArticleModel->updateUNM($codArt,$this->post['unite']);
-									$updateQTArticle = $updateArticleModel->updateQTStk($codArt,$this->post['coeff'],$this->post['unite']);
+									} else {
+										echo "coefficient non saisi" ;
+									} // fin if (!empty($this->post['coeff']) )
+								}else{
 
-								} else {
-									echo "coefficient non saisi" ;
-								} // fin if (!empty($this->post['coeff']) )
+									//$erreur['img']="Unité de mesure ".$this->post['unite']." inconnue!";
+									//var_dump($erreur);
+									echo("<script> alert('Unité de mesure ".$this->post['unite']." inconnue!')</script>");
+									//unset ($this->post['update']);
+									
+								}
 
 							} else {
 

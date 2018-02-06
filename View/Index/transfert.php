@@ -14,7 +14,7 @@ ob_start();
 		<legend class="scheduler-border">
 			<div class="well col-sm-12" >
 	       		<h2  >
-	       			<span style="padding-right: 30px" class="glyphicon glyphicon-pencil"></span> Application de   Transfert de Fichiers Volumineux 
+	       			<span style="padding-right: 30px" class="glyphicon glyphicon-pencil"></span> Application de Transfert de Fichiers Volumineux 
 	       		</h2> 
 			</div>
 		</legend>
@@ -28,12 +28,18 @@ ob_start();
 			</legend>
 
 			<form class="transfert input-group" method='post' enctype="multipart/form-data"  >	
-
+				<div class="col-sm-12"> &nbsp; </div>
 				<div class="col-sm-12">
-					<p>  Sélectionner un ou plusieurs fichiers. </p>
-					<p>  La saisie de votre email , vous permettra de recevoir le chemin des fichiers à télécharger et 	le faire suivre. </p>
+					<p>  Sélectionner un ou plusieurs fichiers.  </p>
+				</div>
+				<div class="col-sm-12"> &nbsp; </div>
+				<div class="col-sm-12">
+					<p> La saisie de votre email, vous permettra de recevoir le chemin des fichiers à télécharger et le faire suivre. </p>
 				</div>	
-				 
+				
+				<div class="col-sm-12"> &nbsp; </div>
+				<div class="col-sm-12"> &nbsp; </div>
+
 				<!-- associer a=vec la fonction JS selectFiles -->
 				<div class='col-sm-12' >
 					<div class='col-sm-6' >

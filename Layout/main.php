@@ -1,6 +1,3 @@
-<?php
-	$admin = false;
-?>
 
 <!DOCTYPE html>
 <html>
@@ -18,8 +15,12 @@
 		<link rel="stylesheet" href="Ressources/bootstrap/css/bootstrap.min.css">
 		<link rel="stylesheet" href="Ressources/style.css">
 
-		 
-	</head>
+		<!-- script JS si le fichier est chargé -->
+		<script type="text/javascript" src="Ressources/jquery-2.1.3.js"> </script> 
+		<script type="text/javascript" src="Ressources/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="Ressources/script.js"> </script>
+	 
+</head>
 
 	<body id="<?php echo  $app_body;?>">
 		
@@ -33,11 +34,7 @@
 			</div>
 	 
 		
-			<!-- script JS si le fichier est chargé -->
-			<script type="text/javascript" src="Ressources/jquery-2.1.3.js"> </script> 
-			<script type="text/javascript" src="Ressources/bootstrap/js/bootstrap.min.js"></script>
-			<script type="text/javascript" src="Ressources/script.js"> </script>
-		 
+			
 		</div>
 		 
 	</body>

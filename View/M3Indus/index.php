@@ -11,21 +11,10 @@ ob_start();
 	<div class="form-group" >
 	
 			<!--input type="hidden" name="page" value="1"/-->
-	     
 	    <div class="col-sm-12" >  
-	        <div class="row">    	 
-            	<ul class="nav nav-tabs  nav-justify" style="margin-top: 20px;text-align: center; ">
-            		<li role="presentation" class=""><a href="<?php echo $this->link('','vente');?>">Vente</a></li>
-            		<li role="presentation"  ><a href="<?php echo $this->link('','prod');?>">Production</a></li>
-            		<li role="presentation" class="active"><a href="<?php echo $this->link('M3Indus');?>">Données Techniques</a></li>
-					<li role="presentation class=""><a href="<?php echo $this->link('','achat');?>">Achat</a></li>
-					<li role="presentation" class=""><a href="<?php echo $this->link('','compta');?>">Comptabilité</a></li>
-					<li role="presentation" class=""><a href="<?php echo $this->link('','autre');?>">Autre Movex</a></li>
-				</ul>
-			</div> 
-			<div class="well" style="margin-top: 20px;text-align: center; "><h3> Domaine PRODUCTION </h3>
-			</div>
-		</div>
+	        <h3> M3 <?php echo $this->getBiblio(); ?> </h3>	 
+ 		</div>
+
 		<fieldset class =  "thumbnail">
 
 			<form class="formArticle" method="post">	
@@ -59,9 +48,9 @@ ob_start();
 					<div class="fixed-table-container  col-sm-6">  
 						<table id=""  class="table table-bordered table-hover" >	
 							<thead>
-								<th> MMUNMS</th> 
-								<th> MMPPUN</th>
-								<th> MMPUUN</th>
+								<th> Unité Base</th> 
+								<th> Unité Prix HA</th>
+								<th> Unité QT HA</th>
 							</thead>
 							<tbody>
 								<td> <?php echo $article['MMUNMS'] ; ?></td> 
@@ -74,9 +63,23 @@ ob_start();
 				 
 				<div class= 'col-sm-12' >
 					<div class="form-group col-sm-3">
-						<input type="text" class="form-control" id="unite" size="15" maxlength="15" name="unite" placeholder="Unite de Mesure" required data-toggle="tooltip" title="saisir la nouvelle unité">
+				    	<label for="formGroupExampleInput2">Nouvelle Unité</label>
+				    	<select name="unite"  class="form-control " id="unite"  data-toggle="tooltip" 
+				    	        title="saisir la nouvelle unité"  > 
+							<option value = "-1"  selected disabled> Sélection unité </option>
+								<?php var_dump($TabUnite);
+								foreach ($TabUnite as $unUnite) {
+								?>
+									<option value=<?php  echo $unUnite["CTSTKY"];?>><?php echo $unUnite["CTSTKY"].'- '.$unUnite["CTTX15"];?></option> 
+								<?php 
+								}
+								?>
+	                    </select> 						
+					<!--<input type="text" class="form-control" id="unite" size="15" maxlength="15" name="unite" 	placeholder="Unite de Mesure" required data-toggle="tooltip" title="saisir la nouvelle unité">
+					-->
 					</div>
 					<div class="form-group col-sm-3">
+						<label for="formGroupExampleInput2">Coef multiplicateur</label>
 						<input type="text" class="form-control" id="coeff" size="15" maxlength="15" name="coeff" placeholder="Coefficient" required data-toggle="tooltip" title="saisir le coefficient de conversion">
 					</div>
 					<div class="form-group col-sm-2"> 
@@ -88,7 +91,8 @@ ob_start();
 				<?php
 				}
 				?>
-			</form>	
+			</form>
+				
 		</fieldset> 
 			
 	</div>

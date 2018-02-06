@@ -27,13 +27,13 @@ class Controller {
 	}
 
 	// gestion des erreurs
-	public function afficheErreurs($msgErreur) {
+	public function afficheMessage($msg) {
 		$html = "";
 		 
-		if (!empty($msgErreur)) {
+		if (!empty($msg)) {
 			$html .= '<ul>';
 			// je gÃ¨re une seule ligne de message 
-				$html .= '<li class ="erreur">'.$msgErreur.'</li>';
+				$html .= '<li  >'.$msg.'</li>';
 			 
 			$html .= '</ul>';
 		}
@@ -80,25 +80,35 @@ class Controller {
 
 	// permet de récupérer la version
 	public function getVersion() {
-		return ('Outils Assitance V-1');
+		return ('V-1');
 	}
 	
 	// permet de récupérer la biblio
 	public function getBiblio() {
-		return ('M3EDBSAND');
-		//return ('M3EDBPROD');
+		if (substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'C:' || substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'D:' )  {
+			return ('M3EDBSAND');
+		} else {
+			return ('M3EDBPROD');
+		}
 	}
 	
-	// permet de récupérer la biblio
+	// permet de récupérer la biblio V11
 	public function getBiblioV11() {
-		return ('mvxbdtatst');
-		//return ('mvxbdta');
+		if (substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'C:' ||  substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'D:' )   {
+			return ('mvxbdtatst');
+		} else {
+			return ('mvxbdta');
+		}
+		 
 	}
 
 	// permet de récupérer la cono
 	public function getConoV11() {
-		return ('600');
-		//return ('100');
+		if (substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'C:' ||  substr($_SERVER['DOCUMENT_ROOT'], 0, 2) == 'D:' )   {
+			return ('600');
+		} else {
+			return ('100');
+		}
 	}
 
 }

@@ -5,6 +5,7 @@ Class Model {
 	// proteced : accessible classe et enfants si extends
 	protected $pdo;
 	protected $pdoV;
+	protected $pdoSql;
 	protected $biblio;
 	protected $biblioV11;
 	protected $conoV11;

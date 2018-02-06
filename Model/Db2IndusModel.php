@@ -12,10 +12,36 @@ class Db2IndusModel extends Model{
 	public function litUMbase($CodeArt) {
 		
 		$query = "SELECT MMITNO,MMUNMS,MMPPUN,MMPUUN FROM ".$this->biblioV11.".MITMAS where MMCONO =".$this->conoV11." AND MMITNO ='".$CodeArt."'";
-	
+		//var_dump($query);
 		$stmt = $this->pdoV->query($query);
 		return $stmt->fetch();
 	
+	} 
+	
+	public function ListeUnite() {
+		
+		$query = "SELECT CTSTKY, CTTX15 FROM ".$this->biblioV11.".CSYTAB where CTCONO=".$this->conoV11." AND CTSTCO='UNIT'  ORDER BY CTSTKY";
+		//var_dump($query);
+		$stmt = $this->pdoV->query($query);
+		$recu=$stmt->fetchAll();
+		//var_dump($recu);
+		return $recu;
+	}
+
+	public function ExistUnite($OldUnit) {
+		
+		$query = "SELECT CTSTKY FROM ".$this->biblioV11.".CSYTAB where CTCONO=".$this->conoV11." AND CTSTCO='UNIT' AND CTSTKY='".$OldUnit."'";
+		//var_dump($query);
+		$stmt = $this->pdoV->query($query);
+		$recu=$stmt->fetch();
+		//var_dump($recu);
+		if(trim($recu['CTSTKY'])==$OldUnit)
+		{
+			return true;
+		}
+		else{
+			return false;	
+		}
 	}
 
 	public function existUR($CodeArt,$OldUnit,$TypeU) {
@@ -52,7 +78,7 @@ class Db2IndusModel extends Model{
 		$result = array();
 		$art=$this->litUMbase($CodeArt);
 		if($art['MMPPUN']==$art['MMUNMS'] && $art['MMPUUN']==$art['MMUNMS'] ){
-			$query = "UPDATE ".$this->biblioV11.".MITMAS SET MMUNMS='".$NewUB."',MMPPUN='".$NewUB."',MMPUUN='".$NewUB."' WHERE MMCONO=".$this->conoV11." AND MMITNO='".$CodeArt."'";
+		$query = "UPDATE ".$this->biblioV11.".MITMAS SET MMUNMS='".$NewUB."',MMPPUN='".$NewUB."',MMPUUN='".$NewUB."' WHERE MMCONO=".$this->conoV11." AND MMITNO='".$CodeArt."'";
 		}
 		else{			
 		$query = "UPDATE ".$this->biblioV11.".MITMAS SET MMUNMS='".$NewUB."' WHERE MMCONO=".$this->conoV11." AND MMITNO='".$CodeArt."'";
@@ -122,9 +148,9 @@ class Db2IndusModel extends Model{
 				}
 			}
 			$query="UPDATE ".$this->biblioV11.".MITFAC 
-				SET M9UCOS=(M9UCOS/".$Koef."), M9APPR=(M9APPR/".$Koef.")
-				WHERE M9CONO=".$this->conoV11."  AND M9ITNO='".$CodeArt."'";
-				$stmt = $this->pdoV->prepare($query);
+			SET M9UCOS=(M9UCOS/".$Koef."), M9APPR=(M9APPR/".$Koef.")
+			WHERE M9CONO=".$this->conoV11."  AND M9ITNO='".$CodeArt."'";
+			$stmt = $this->pdoV->prepare($query);
 					 
 			if ($stmt->execute()) {
 				$result['MITFAC'] = "le PMP a été adapté à l'unité de base ".$NewUB;
@@ -135,16 +161,16 @@ class Db2IndusModel extends Model{
 			}
 			//Mise a jour de MMS015
 			$query="UPDATE ".$this->biblioV11.".MITAUN 
-				SET MUCOFA=MUCOFA*".$Koef."
-				WHERE MUCONO=".$this->conoV11." AND MUITNO='".$CodeArt."'";
-				$stmt = $this->pdoV->prepare($query);				 
-				if ($stmt->execute()) {
-					$result['MITAUN']  = "les unités de remplacement ont été adaptées à l'unité de base ".$NewUB;
-				//	echo "les unités de remplcament ont été adaptées à l'unité de base".$NewUB."/r";
-				} else {
-					$result['PasOK'] = "les unités de remplacement n'ont pas été adaptées à l'unité de base ".$NewUB;
-				//	echo "les unités de remplcament n'ont pas été adaptées à l'unité de base".$NewUB."/r";
-				}
+			SET MUCOFA=MUCOFA*".$Koef."
+			WHERE MUCONO=".$this->conoV11." AND MUITNO='".$CodeArt."'";
+			$stmt = $this->pdoV->prepare($query);				 
+			if ($stmt->execute()) {
+				$result['MITAUN']  = "les unités de remplacement ont été adaptées à l'unité de base ".$NewUB;
+			//	echo "les unités de remplcament ont été adaptées à l'unité de base".$NewUB."/r";
+			} else {
+				$result['PasOK'] = "les unités de remplacement n'ont pas été adaptées à l'unité de base ".$NewUB;
+			//	echo "les unités de remplcament n'ont pas été adaptées à l'unité de base".$NewUB."/r";
+			}
 
 			//Mise a jour MWS070
 			$query="UPDATE ".$this->biblioV11.".MITTRA
@@ -208,16 +234,17 @@ class Db2IndusModel extends Model{
 		}
 		if (isset($result['PasOK'])) {
 			$this->pdoV->rollBack();
-			echo 'La conversion n\'a pas eu lieu<br>';
-			echo 'derniere erreur'.$result['PasOK'];
+			$text= 'La conversion n\'a pas eu lieu\n';
+			$text=$text.'derniere erreur:\n'.$result['PasOK'];
+			echo("<script> alert(' ".$text." ')</script>");
 		} else {
 			$this->pdoV->commit();
 			$text='';
 			foreach ($result as $key => $value) {
 				# code...
-				$text=$text.$value.'<br>';
+				$text=$text.$value.'\n';
 			}
-			echo $text;
+			echo("<script> alert(' ".$text." ')</script>");
 		}
 	}
  

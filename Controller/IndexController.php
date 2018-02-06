@@ -8,25 +8,20 @@ class IndexController extends Controller {
 		$app_desc="Comeca" ;
 		$app_body="body_Index" ;
 				
-		// liste déroulante catégorie
-		require_once('Model/Db2Model.php');
-		//$diviModel = new Db2Model($this->getBiblio());
-		//$divi = $diviModel->listerDivi();
-				
+		// Affiche le menu 
+		 
 		require('View/Index/index.php') ; 
 	}
 
-	public function testAction() {
+	public function aideAction() {
 		$app_title="Maj MOVEX" ;
 		$app_desc="Comeca" ;
-		$app_body="body_Index" ;
+		$app_body="body_Aide" ;
 				
-	 
-  
-
- 		require('View/Index/test2.php') ; 
+		// Affiche le menu 
+		 
+		require('View/Index/aide.php') ; 
 	}
-
 
 	public function transfertAction() {
 
@@ -45,15 +40,15 @@ class IndexController extends Controller {
 
 			//$urlprivate = "http://private.comeca-group.com/TransfertFile/";
 		 
-			$urlprivate = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources\\files\\";
+		/*	$urlprivate = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources\\files\\";
 			$urlLogo = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources\\logo.jpg";
 			$urlTop = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources\\BanniereTop.jpg";
-			$urlRessources = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources"; 
+			$urlRessources = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources";  */
 		
-		/*	$urlprivate = "Ressources/files/";
+			$urlprivate = "Ressources/files/";
 			$urlLogo = "Ressources/logo.jpg";
 			$urlTop = "Ressources/BanniereTop.jpg";
-			$urlRessources = "Ressources/"; */
+			$urlRessources = "Ressources/";  
 		
 			$fileUpload = false ;
 		
@@ -320,112 +315,26 @@ class IndexController extends Controller {
 
 	}
 		
-	public function venteAction() {
-	$app_title="Maj MOVEX";
-	$app_desc="Comeca" ;
-	$app_body="body_Vente" ;
-	
-	require('View/Index/vente.php') ; 
-
-	}
-
-	public function ofAction() {
-
-		$app_title="Maj MOVEX" ;
-		$app_desc="Comeca" ;
-		$app_body="body_Prod" ;
-
-		/* modif statut pour OF */
-		if (!empty($this->post['of'])) {
-
-			$of = $this->get['of'];
-
-			require_once('Model/DB2Model.php') ;
-			$db2Model = new DB2Model(null,$this->getBiblioV11(),$this->getConoV11());
-	 		
-	 		$statutOf = $db2Model->selectOf($of);
-
-	 		if ($statutOf == '22' || $statutOf == '62' || $statutOf == '82' ) {
-
-		 		$result = $db2Model->updateStatutOf($of);
-		 		if($result){
-		 			$json = array('result'=>true);
-		 		}else{
-		 			$json = array('result'=>false);
-		 		}
-				echo json_encode($json);
-			} 
-			
-		} // fin  if (!empty($this->post['of'])) 
-		
-		require('View/Index/prod.php') ; 
-
-	}
-
-	public function updateStatutOfAction() {
-		
-		$app_title="Maj MOVEX" ;
-		$app_desc="Comeca" ;
-		$app_body="body_Prod" ;
-
-		/* modif statut pour OF */
-		if (!empty($this->post['of'])) {
-
-			$of = $this->post['of'];
-
-			require_once('Model/DB2Model.php') ;
-			$db2Model = new DB2Model();
-	 		
-	 		$statutOf = $db2Model->selectOf($of);
-
-	 		if ($statutOf == '22' || $statutOf == '62' || $statutOf == '82' ) {
-
-	 			switch ($statutOf) {
-	 				case '22':
-	 					$newStatut = '20';
-	 					break;
-	 				case '62':
-	 					$newStatut = '60';
-	 					break;
-	 				case '82':
-	 					$newStatut = '80';
-	 					break;
-	 			}
-	 			$result = array();
-		 		$result = $db2Model->updateStatutOf($of,$newStatut);
-		 		
-		 		if($result){
-		 			$statutOf = $db2Model->selectOf($of);
-		 			$json = array('result'=>true,'newStatut'=> $statutOf);
-		 		}else{
-		 			$json = array('result'=>false);
-		 		}
-				echo json_encode($json);
-			} 
-			
-		}
-		require('View/Index/prod.php') ; 
-
-	}
-	
-	public function achatAction() {
+	 
+	public function deletePaveOaAction() {
 		$app_title="Maj MOVEX" ;
 		$app_desc="Comeca" ;
 		$app_body="body_Achat" ;
 		
-		require('View/Index/achat.php') ; 
+		require('View/Index/oaPave.php') ; 
 
 	}
 
-	public function comptaAction() {
+	
+
+	public function testAction() {
 		$app_title="Maj MOVEX" ;
 		$app_desc="Comeca" ;
-		$app_body="body_Compta" ;
-		
-		require('View/Index/compta.php') ; 
-
+		$app_body="body_Index" ;
+				
+	 
+   		require('View/Index/test2.php') ; 
 	}
-
 	
 }
 
