@@ -45,10 +45,10 @@ class IndexController extends Controller {
 			$urlTop = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources\\BanniereTop.jpg";
 			$urlRessources = "C:\\xampp\\htdocs\\SelfAssistance\\Ressources";  */
 		
-			$urlprivate = "Ressources/files/";
-			$urlLogo = "Ressources/logo.jpg";
-			$urlTop = "Ressources/BanniereTop.jpg";
-			$urlRessources = "Ressources/";  
+			$urlprivate = "http://vairao/SelfAssistance/Ressources/files/";
+			$urlLogo = "http://vairao/SelfAssistance/Ressources/logo.jpg";
+			$urlTop = "http://vairao/SelfAssistance/Ressources/BanniereTop.jpg";
+			$urlRessources = "http://vairao/SelfAssistance/Ressources/";  
 		
 			$fileUpload = false ;
 		
