@@ -5,7 +5,6 @@ class SqlModel extends Model{
 
 	 
 
-
 }
 
 
